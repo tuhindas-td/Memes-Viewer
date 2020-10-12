@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Memes Viewer</string>
+    <string name="image_description">This is a meme image</string>
+    <string name="share_meme">Share</string>
+    <string name="next_meme">Next</string>
+    <string name="app_logo">App Logo</string>
+    <string name="bong_logo">Bong Logo</string>
+</resources>
